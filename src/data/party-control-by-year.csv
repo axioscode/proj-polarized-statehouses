@@ -1,0 +1,801 @@
+Abbrev,State,Year,Leg Majority
+al,Alabama,2002,d
+al,Alabama,2003,d
+al,Alabama,2004,d
+al,Alabama,2005,d
+al,Alabama,2006,d
+al,Alabama,2007,d
+al,Alabama,2008,d
+al,Alabama,2009,d
+al,Alabama,2010,d
+al,Alabama,2011,r
+al,Alabama,2012,r
+al,Alabama,2013,r
+al,Alabama,2014,r
+al,Alabama,2015,r
+al,Alabama,2016,r
+al,Alabama,2017,r
+ak,Alaska,2002,r
+ak,Alaska,2003,r
+ak,Alaska,2004,r
+ak,Alaska,2005,r
+ak,Alaska,2006,r
+ak,Alaska,2007,s
+ak,Alaska,2008,s
+ak,Alaska,2009,s
+ak,Alaska,2010,s
+ak,Alaska,2011,s
+ak,Alaska,2012,s
+ak,Alaska,2013,s
+ak,Alaska,2014,r
+ak,Alaska,2015,r
+ak,Alaska,2016,r
+ak,Alaska,2017,r
+az,Arizona,2002,s
+az,Arizona,2003,r
+az,Arizona,2004,r
+az,Arizona,2005,r
+az,Arizona,2006,r
+az,Arizona,2007,r
+az,Arizona,2008,r
+az,Arizona,2009,r
+az,Arizona,2010,r
+az,Arizona,2011,r
+az,Arizona,2012,r
+az,Arizona,2013,r
+az,Arizona,2014,r
+az,Arizona,2015,r
+az,Arizona,2016,r
+az,Arizona,2017,r
+ar,Arkansas,2002,d
+ar,Arkansas,2003,d
+ar,Arkansas,2004,d
+ar,Arkansas,2005,d
+ar,Arkansas,2006,d
+ar,Arkansas,2007,d
+ar,Arkansas,2008,d
+ar,Arkansas,2009,d
+ar,Arkansas,2010,d
+ar,Arkansas,2011,d
+ar,Arkansas,2012,d
+ar,Arkansas,2013,r
+ar,Arkansas,2014,r
+ar,Arkansas,2015,r
+ar,Arkansas,2016,r
+ar,Arkansas,2017,r
+ca,California,2002,d
+ca,California,2003,d
+ca,California,2004,d
+ca,California,2005,d
+ca,California,2006,d
+ca,California,2007,d
+ca,California,2008,d
+ca,California,2009,d
+ca,California,2010,d
+ca,California,2011,d
+ca,California,2012,d
+ca,California,2013,d
+ca,California,2014,d
+ca,California,2015,d
+ca,California,2016,d
+ca,California,2017,d
+co,Colorado,2002,s
+co,Colorado,2003,r
+co,Colorado,2004,r
+co,Colorado,2005,d
+co,Colorado,2006,d
+co,Colorado,2007,d
+co,Colorado,2008,d
+co,Colorado,2009,d
+co,Colorado,2010,d
+co,Colorado,2011,s
+co,Colorado,2012,s
+co,Colorado,2013,d
+co,Colorado,2014,d
+co,Colorado,2015,s
+co,Colorado,2016,s
+co,Colorado,2017,s
+ct,Connecticut,2002,d
+ct,Connecticut,2003,d
+ct,Connecticut,2004,d
+ct,Connecticut,2005,d
+ct,Connecticut,2006,d
+ct,Connecticut,2007,d
+ct,Connecticut,2008,d
+ct,Connecticut,2009,d
+ct,Connecticut,2010,d
+ct,Connecticut,2011,d
+ct,Connecticut,2012,d
+ct,Connecticut,2013,d
+ct,Connecticut,2014,d
+ct,Connecticut,2015,d
+ct,Connecticut,2016,d
+ct,Connecticut,2017,s
+de,Delaware,2002,s
+de,Delaware,2003,s
+de,Delaware,2004,s
+de,Delaware,2005,s
+de,Delaware,2006,s
+de,Delaware,2007,s
+de,Delaware,2008,s
+de,Delaware,2009,d
+de,Delaware,2010,d
+de,Delaware,2011,d
+de,Delaware,2012,d
+de,Delaware,2013,d
+de,Delaware,2014,d
+de,Delaware,2015,d
+de,Delaware,2016,d
+de,Delaware,2017,d
+fl,Florida,2002,r
+fl,Florida,2003,r
+fl,Florida,2004,r
+fl,Florida,2005,r
+fl,Florida,2006,r
+fl,Florida,2007,r
+fl,Florida,2008,r
+fl,Florida,2009,r
+fl,Florida,2010,r
+fl,Florida,2011,r
+fl,Florida,2012,r
+fl,Florida,2013,r
+fl,Florida,2014,r
+fl,Florida,2015,r
+fl,Florida,2016,r
+fl,Florida,2017,r
+ga,Georgia,2002,d
+ga,Georgia,2003,s
+ga,Georgia,2004,s
+ga,Georgia,2005,r
+ga,Georgia,2006,r
+ga,Georgia,2007,r
+ga,Georgia,2008,r
+ga,Georgia,2009,r
+ga,Georgia,2010,r
+ga,Georgia,2011,r
+ga,Georgia,2012,r
+ga,Georgia,2013,r
+ga,Georgia,2014,r
+ga,Georgia,2015,r
+ga,Georgia,2016,r
+ga,Georgia,2017,r
+hi,Hawaii,2002,d
+hi,Hawaii,2003,d
+hi,Hawaii,2004,d
+hi,Hawaii,2005,d
+hi,Hawaii,2006,d
+hi,Hawaii,2007,d
+hi,Hawaii,2008,d
+hi,Hawaii,2009,d
+hi,Hawaii,2010,d
+hi,Hawaii,2011,d
+hi,Hawaii,2012,d
+hi,Hawaii,2013,d
+hi,Hawaii,2014,d
+hi,Hawaii,2015,d
+hi,Hawaii,2016,d
+hi,Hawaii,2017,d
+id,Idaho,2002,r
+id,Idaho,2003,r
+id,Idaho,2004,r
+id,Idaho,2005,r
+id,Idaho,2006,r
+id,Idaho,2007,r
+id,Idaho,2008,r
+id,Idaho,2009,r
+id,Idaho,2010,r
+id,Idaho,2011,r
+id,Idaho,2012,r
+id,Idaho,2013,r
+id,Idaho,2014,r
+id,Idaho,2015,r
+id,Idaho,2016,r
+id,Idaho,2017,r
+il,Illinois,2002,s
+il,Illinois,2003,d
+il,Illinois,2004,d
+il,Illinois,2005,d
+il,Illinois,2006,d
+il,Illinois,2007,d
+il,Illinois,2008,d
+il,Illinois,2009,d
+il,Illinois,2010,d
+il,Illinois,2011,d
+il,Illinois,2012,d
+il,Illinois,2013,d
+il,Illinois,2014,d
+il,Illinois,2015,d
+il,Illinois,2016,d
+il,Illinois,2017,d
+in,Indiana,2002,s
+in,Indiana,2003,s
+in,Indiana,2004,s
+in,Indiana,2005,r
+in,Indiana,2006,r
+in,Indiana,2007,s
+in,Indiana,2008,s
+in,Indiana,2009,s
+in,Indiana,2010,s
+in,Indiana,2011,r
+in,Indiana,2012,r
+in,Indiana,2013,r
+in,Indiana,2014,r
+in,Indiana,2015,r
+in,Indiana,2016,r
+in,Indiana,2017,r
+ia,Iowa,2002,r
+ia,Iowa,2003,r
+ia,Iowa,2004,r
+ia,Iowa,2005,s
+ia,Iowa,2006,s
+ia,Iowa,2007,d
+ia,Iowa,2008,d
+ia,Iowa,2009,d
+ia,Iowa,2010,d
+ia,Iowa,2011,s
+ia,Iowa,2012,s
+ia,Iowa,2013,s
+ia,Iowa,2014,s
+ia,Iowa,2015,s
+ia,Iowa,2016,s
+ia,Iowa,2017,r
+ks,Kansas,2002,r
+ks,Kansas,2003,r
+ks,Kansas,2004,r
+ks,Kansas,2005,r
+ks,Kansas,2006,r
+ks,Kansas,2007,r
+ks,Kansas,2008,r
+ks,Kansas,2009,r
+ks,Kansas,2010,r
+ks,Kansas,2011,r
+ks,Kansas,2012,r
+ks,Kansas,2013,r
+ks,Kansas,2014,r
+ks,Kansas,2015,r
+ks,Kansas,2016,r
+ks,Kansas,2017,r
+ky,Kentucky,2002,s
+ky,Kentucky,2003,s
+ky,Kentucky,2004,s
+ky,Kentucky,2005,s
+ky,Kentucky,2006,s
+ky,Kentucky,2007,s
+ky,Kentucky,2008,s
+ky,Kentucky,2009,s
+ky,Kentucky,2010,s
+ky,Kentucky,2011,s
+ky,Kentucky,2012,s
+ky,Kentucky,2013,s
+ky,Kentucky,2014,s
+ky,Kentucky,2015,s
+ky,Kentucky,2016,s
+ky,Kentucky,2017,r
+la,Louisiana,2002,d
+la,Louisiana,2003,d
+la,Louisiana,2004,d
+la,Louisiana,2005,d
+la,Louisiana,2006,d
+la,Louisiana,2007,d
+la,Louisiana,2008,d
+la,Louisiana,2009,d
+la,Louisiana,2010,d
+la,Louisiana,2011,r
+la,Louisiana,2012,r
+la,Louisiana,2013,r
+la,Louisiana,2014,r
+la,Louisiana,2015,r
+la,Louisiana,2016,r
+la,Louisiana,2017,r
+me,Maine,2002,s
+me,Maine,2003,d
+me,Maine,2004,d
+me,Maine,2005,d
+me,Maine,2006,d
+me,Maine,2007,d
+me,Maine,2008,d
+me,Maine,2009,d
+me,Maine,2010,d
+me,Maine,2011,r
+me,Maine,2012,r
+me,Maine,2013,d
+me,Maine,2014,d
+me,Maine,2015,s
+me,Maine,2016,s
+me,Maine,2017,s
+md,Maryland,2002,d
+md,Maryland,2003,d
+md,Maryland,2004,d
+md,Maryland,2005,d
+md,Maryland,2006,d
+md,Maryland,2007,d
+md,Maryland,2008,d
+md,Maryland,2009,d
+md,Maryland,2010,d
+md,Maryland,2011,d
+md,Maryland,2012,d
+md,Maryland,2013,d
+md,Maryland,2014,d
+md,Maryland,2015,d
+md,Maryland,2016,d
+md,Maryland,2017,d
+ma,Massachusetts,2002,d
+ma,Massachusetts,2003,d
+ma,Massachusetts,2004,d
+ma,Massachusetts,2005,d
+ma,Massachusetts,2006,d
+ma,Massachusetts,2007,d
+ma,Massachusetts,2008,d
+ma,Massachusetts,2009,d
+ma,Massachusetts,2010,d
+ma,Massachusetts,2011,d
+ma,Massachusetts,2012,d
+ma,Massachusetts,2013,d
+ma,Massachusetts,2014,d
+ma,Massachusetts,2015,d
+ma,Massachusetts,2016,d
+ma,Massachusetts,2017,d
+mi,Michigan,2002,r
+mi,Michigan,2003,r
+mi,Michigan,2004,r
+mi,Michigan,2005,r
+mi,Michigan,2006,s
+mi,Michigan,2007,s
+mi,Michigan,2008,s
+mi,Michigan,2009,s
+mi,Michigan,2010,s
+mi,Michigan,2011,r
+mi,Michigan,2012,r
+mi,Michigan,2013,r
+mi,Michigan,2014,r
+mi,Michigan,2015,r
+mi,Michigan,2016,r
+mi,Michigan,2017,r
+mn,Minnesota,2002,s
+mn,Minnesota,2003,s
+mn,Minnesota,2004,s
+mn,Minnesota,2005,s
+mn,Minnesota,2006,s
+mn,Minnesota,2007,d
+mn,Minnesota,2008,d
+mn,Minnesota,2009,d
+mn,Minnesota,2010,d
+mn,Minnesota,2011,r
+mn,Minnesota,2012,r
+mn,Minnesota,2013,d
+mn,Minnesota,2014,d
+mn,Minnesota,2015,s
+mn,Minnesota,2016,s
+mn,Minnesota,2017,r
+ms,Mississippi,2002,d
+ms,Mississippi,2003,d
+ms,Mississippi,2004,d
+ms,Mississippi,2005,d
+ms,Mississippi,2006,d
+ms,Mississippi,2007,s
+ms,Mississippi,2008,d
+ms,Mississippi,2009,d
+ms,Mississippi,2010,d
+ms,Mississippi,2011,s
+ms,Mississippi,2012,r
+ms,Mississippi,2013,r
+ms,Mississippi,2014,r
+ms,Mississippi,2015,r
+ms,Mississippi,2016,r
+ms,Mississippi,2017,r
+mo,Missouri,2002,s
+mo,Missouri,2003,r
+mo,Missouri,2004,r
+mo,Missouri,2005,r
+mo,Missouri,2006,r
+mo,Missouri,2007,r
+mo,Missouri,2008,r
+mo,Missouri,2009,r
+mo,Missouri,2010,r
+mo,Missouri,2011,r
+mo,Missouri,2012,r
+mo,Missouri,2013,r
+mo,Missouri,2014,r
+mo,Missouri,2015,r
+mo,Missouri,2016,r
+mo,Missouri,2017,r
+mt,Montana,2002,r
+mt,Montana,2003,r
+mt,Montana,2004,r
+mt,Montana,2005,s
+mt,Montana,2006,s
+mt,Montana,2007,s
+mt,Montana,2008,s
+mt,Montana,2009,s
+mt,Montana,2010,s
+mt,Montana,2011,r
+mt,Montana,2012,r
+mt,Montana,2013,r
+mt,Montana,2014,r
+mt,Montana,2015,r
+mt,Montana,2016,r
+mt,Montana,2017,r
+ne,Nebraska,2002,NA
+ne,Nebraska,2003,NA
+ne,Nebraska,2004,NA
+ne,Nebraska,2005,NA
+ne,Nebraska,2006,NA
+ne,Nebraska,2007,NA
+ne,Nebraska,2008,NA
+ne,Nebraska,2009,NA
+ne,Nebraska,2010,NA
+ne,Nebraska,2011,NA
+ne,Nebraska,2012,NA
+ne,Nebraska,2013,NA
+ne,Nebraska,2014,NA
+ne,Nebraska,2015,NA
+ne,Nebraska,2016,NA
+ne,Nebraska,2017,NA
+nv,Nevada,2002,s
+nv,Nevada,2003,s
+nv,Nevada,2004,s
+nv,Nevada,2005,s
+nv,Nevada,2006,s
+nv,Nevada,2007,s
+nv,Nevada,2008,s
+nv,Nevada,2009,d
+nv,Nevada,2010,d
+nv,Nevada,2011,d
+nv,Nevada,2012,d
+nv,Nevada,2013,d
+nv,Nevada,2014,d
+nv,Nevada,2015,r
+nv,Nevada,2016,r
+nv,Nevada,2017,d
+nh,New Hampshire,2002,r
+nh,New Hampshire,2003,r
+nh,New Hampshire,2004,r
+nh,New Hampshire,2005,r
+nh,New Hampshire,2006,r
+nh,New Hampshire,2007,d
+nh,New Hampshire,2008,d
+nh,New Hampshire,2009,d
+nh,New Hampshire,2010,d
+nh,New Hampshire,2011,r
+nh,New Hampshire,2012,r
+nh,New Hampshire,2013,s
+nh,New Hampshire,2014,s
+nh,New Hampshire,2015,r
+nh,New Hampshire,2016,r
+nh,New Hampshire,2017,r
+nj,New Jersey,2002,s
+nj,New Jersey,2003,s
+nj,New Jersey,2004,d
+nj,New Jersey,2005,d
+nj,New Jersey,2006,d
+nj,New Jersey,2007,d
+nj,New Jersey,2008,d
+nj,New Jersey,2009,d
+nj,New Jersey,2010,d
+nj,New Jersey,2011,d
+nj,New Jersey,2012,d
+nj,New Jersey,2013,d
+nj,New Jersey,2014,d
+nj,New Jersey,2015,d
+nj,New Jersey,2016,d
+nj,New Jersey,2017,d
+nm,New Mexico,2002,d
+nm,New Mexico,2003,d
+nm,New Mexico,2004,d
+nm,New Mexico,2005,d
+nm,New Mexico,2006,d
+nm,New Mexico,2007,d
+nm,New Mexico,2008,d
+nm,New Mexico,2009,d
+nm,New Mexico,2010,d
+nm,New Mexico,2011,d
+nm,New Mexico,2012,d
+nm,New Mexico,2013,d
+nm,New Mexico,2014,d
+nm,New Mexico,2015,s
+nm,New Mexico,2016,s
+nm,New Mexico,2017,d
+ny,New York,2002,s
+ny,New York,2003,s
+ny,New York,2004,s
+ny,New York,2005,s
+ny,New York,2006,s
+ny,New York,2007,s
+ny,New York,2008,s
+ny,New York,2009,d
+ny,New York,2010,d
+ny,New York,2011,s
+ny,New York,2012,s
+ny,New York,2013,s
+ny,New York,2014,d
+ny,New York,2015,s
+ny,New York,2016,s
+ny,New York,2017,d
+nc,North Carolina,2002,d
+nc,North Carolina,2003,d
+nc,North Carolina,2004,d
+nc,North Carolina,2005,d
+nc,North Carolina,2006,d
+nc,North Carolina,2007,d
+nc,North Carolina,2008,d
+nc,North Carolina,2009,d
+nc,North Carolina,2010,d
+nc,North Carolina,2011,r
+nc,North Carolina,2012,r
+nc,North Carolina,2013,r
+nc,North Carolina,2014,r
+nc,North Carolina,2015,r
+nc,North Carolina,2016,r
+nc,North Carolina,2017,r
+nd,North Dakota,2002,r
+nd,North Dakota,2003,r
+nd,North Dakota,2004,r
+nd,North Dakota,2005,r
+nd,North Dakota,2006,r
+nd,North Dakota,2007,r
+nd,North Dakota,2008,r
+nd,North Dakota,2009,r
+nd,North Dakota,2010,r
+nd,North Dakota,2011,r
+nd,North Dakota,2012,r
+nd,North Dakota,2013,r
+nd,North Dakota,2014,r
+nd,North Dakota,2015,r
+nd,North Dakota,2016,r
+nd,North Dakota,2017,r
+oh,Ohio,2002,r
+oh,Ohio,2003,r
+oh,Ohio,2004,r
+oh,Ohio,2005,r
+oh,Ohio,2006,r
+oh,Ohio,2007,r
+oh,Ohio,2008,r
+oh,Ohio,2009,s
+oh,Ohio,2010,s
+oh,Ohio,2011,r
+oh,Ohio,2012,r
+oh,Ohio,2013,r
+oh,Ohio,2014,r
+oh,Ohio,2015,r
+oh,Ohio,2016,r
+oh,Ohio,2017,r
+ok,Oklahoma,2002,d
+ok,Oklahoma,2003,d
+ok,Oklahoma,2004,d
+ok,Oklahoma,2005,s
+ok,Oklahoma,2006,s
+ok,Oklahoma,2007,s
+ok,Oklahoma,2008,s
+ok,Oklahoma,2009,r
+ok,Oklahoma,2010,r
+ok,Oklahoma,2011,r
+ok,Oklahoma,2012,r
+ok,Oklahoma,2013,r
+ok,Oklahoma,2014,r
+ok,Oklahoma,2015,r
+ok,Oklahoma,2016,r
+ok,Oklahoma,2017,r
+or,Oregon,2002,r
+or,Oregon,2003,s
+or,Oregon,2004,s
+or,Oregon,2005,s
+or,Oregon,2006,s
+or,Oregon,2007,d
+or,Oregon,2008,d
+or,Oregon,2009,d
+or,Oregon,2010,d
+or,Oregon,2011,s
+or,Oregon,2012,s
+or,Oregon,2013,d
+or,Oregon,2014,d
+or,Oregon,2015,d
+or,Oregon,2016,d
+or,Oregon,2017,d
+pa,Pennsylvania,2002,r
+pa,Pennsylvania,2003,r
+pa,Pennsylvania,2004,r
+pa,Pennsylvania,2005,r
+pa,Pennsylvania,2006,r
+pa,Pennsylvania,2007,s
+pa,Pennsylvania,2008,s
+pa,Pennsylvania,2009,s
+pa,Pennsylvania,2010,s
+pa,Pennsylvania,2011,r
+pa,Pennsylvania,2012,r
+pa,Pennsylvania,2013,r
+pa,Pennsylvania,2014,r
+pa,Pennsylvania,2015,r
+pa,Pennsylvania,2016,r
+pa,Pennsylvania,2017,r
+ri,Rhode Island,2002,d
+ri,Rhode Island,2003,d
+ri,Rhode Island,2004,d
+ri,Rhode Island,2005,d
+ri,Rhode Island,2006,d
+ri,Rhode Island,2007,d
+ri,Rhode Island,2008,d
+ri,Rhode Island,2009,d
+ri,Rhode Island,2010,d
+ri,Rhode Island,2011,d
+ri,Rhode Island,2012,d
+ri,Rhode Island,2013,d
+ri,Rhode Island,2014,d
+ri,Rhode Island,2015,d
+ri,Rhode Island,2016,d
+ri,Rhode Island,2017,d
+sc,South Carolina,2002,r
+sc,South Carolina,2003,r
+sc,South Carolina,2004,r
+sc,South Carolina,2005,r
+sc,South Carolina,2006,r
+sc,South Carolina,2007,r
+sc,South Carolina,2008,r
+sc,South Carolina,2009,r
+sc,South Carolina,2010,r
+sc,South Carolina,2011,r
+sc,South Carolina,2012,r
+sc,South Carolina,2013,r
+sc,South Carolina,2014,r
+sc,South Carolina,2015,r
+sc,South Carolina,2016,r
+sc,South Carolina,2017,r
+sd,South Dakota,2002,r
+sd,South Dakota,2003,r
+sd,South Dakota,2004,r
+sd,South Dakota,2005,r
+sd,South Dakota,2006,r
+sd,South Dakota,2007,r
+sd,South Dakota,2008,r
+sd,South Dakota,2009,r
+sd,South Dakota,2010,r
+sd,South Dakota,2011,r
+sd,South Dakota,2012,r
+sd,South Dakota,2013,r
+sd,South Dakota,2014,r
+sd,South Dakota,2015,r
+sd,South Dakota,2016,r
+sd,South Dakota,2017,r
+tn,Tennessee,2002,d
+tn,Tennessee,2003,d
+tn,Tennessee,2004,d
+tn,Tennessee,2005,s
+tn,Tennessee,2006,s
+tn,Tennessee,2007,s
+tn,Tennessee,2008,s
+tn,Tennessee,2009,s
+tn,Tennessee,2010,r
+tn,Tennessee,2011,r
+tn,Tennessee,2012,r
+tn,Tennessee,2013,r
+tn,Tennessee,2014,r
+tn,Tennessee,2015,r
+tn,Tennessee,2016,r
+tn,Tennessee,2017,r
+tx,Texas,2002,s
+tx,Texas,2003,r
+tx,Texas,2004,r
+tx,Texas,2005,r
+tx,Texas,2006,r
+tx,Texas,2007,r
+tx,Texas,2008,r
+tx,Texas,2009,r
+tx,Texas,2010,r
+tx,Texas,2011,r
+tx,Texas,2012,r
+tx,Texas,2013,r
+tx,Texas,2014,r
+tx,Texas,2015,r
+tx,Texas,2016,r
+tx,Texas,2017,r
+ut,Utah,2002,r
+ut,Utah,2003,r
+ut,Utah,2004,r
+ut,Utah,2005,r
+ut,Utah,2006,r
+ut,Utah,2007,r
+ut,Utah,2008,r
+ut,Utah,2009,r
+ut,Utah,2010,r
+ut,Utah,2011,r
+ut,Utah,2012,r
+ut,Utah,2013,r
+ut,Utah,2014,r
+ut,Utah,2015,r
+ut,Utah,2016,r
+ut,Utah,2017,r
+vt,Vermont,2002,s
+vt,Vermont,2003,s
+vt,Vermont,2004,s
+vt,Vermont,2005,d
+vt,Vermont,2006,d
+vt,Vermont,2007,d
+vt,Vermont,2008,d
+vt,Vermont,2009,d
+vt,Vermont,2010,d
+vt,Vermont,2011,d
+vt,Vermont,2012,d
+vt,Vermont,2013,d
+vt,Vermont,2014,d
+vt,Vermont,2015,d
+vt,Vermont,2016,d
+vt,Vermont,2017,d
+va,Virginia,2002,r
+va,Virginia,2003,r
+va,Virginia,2004,r
+va,Virginia,2005,r
+va,Virginia,2006,r
+va,Virginia,2007,r
+va,Virginia,2008,s
+va,Virginia,2009,s
+va,Virginia,2010,s
+va,Virginia,2011,s
+va,Virginia,2012,r
+va,Virginia,2013,r
+va,Virginia,2014,r
+va,Virginia,2015,r
+va,Virginia,2016,r
+va,Virginia,2017,r
+wa,Washington,2002,d
+wa,Washington,2003,s
+wa,Washington,2004,s
+wa,Washington,2005,d
+wa,Washington,2006,d
+wa,Washington,2007,d
+wa,Washington,2008,d
+wa,Washington,2009,d
+wa,Washington,2010,d
+wa,Washington,2011,d
+wa,Washington,2012,d
+wa,Washington,2013,s
+wa,Washington,2014,d
+wa,Washington,2015,s
+wa,Washington,2016,s
+wa,Washington,2017,d
+wv,West Virginia,2002,d
+wv,West Virginia,2003,d
+wv,West Virginia,2004,d
+wv,West Virginia,2005,d
+wv,West Virginia,2006,d
+wv,West Virginia,2007,d
+wv,West Virginia,2008,d
+wv,West Virginia,2009,d
+wv,West Virginia,2010,d
+wv,West Virginia,2011,d
+wv,West Virginia,2012,d
+wv,West Virginia,2013,d
+wv,West Virginia,2014,d
+wv,West Virginia,2015,r
+wv,West Virginia,2016,r
+wv,West Virginia,2017,r
+wi,Wisconsin,2002,s
+wi,Wisconsin,2003,r
+wi,Wisconsin,2004,r
+wi,Wisconsin,2005,r
+wi,Wisconsin,2006,r
+wi,Wisconsin,2007,s
+wi,Wisconsin,2008,s
+wi,Wisconsin,2009,d
+wi,Wisconsin,2010,d
+wi,Wisconsin,2011,r
+wi,Wisconsin,2012,r
+wi,Wisconsin,2013,r
+wi,Wisconsin,2014,r
+wi,Wisconsin,2015,r
+wi,Wisconsin,2016,r
+wi,Wisconsin,2017,r
+wy,Wyoming,2002,r
+wy,Wyoming,2003,r
+wy,Wyoming,2004,r
+wy,Wyoming,2005,r
+wy,Wyoming,2006,r
+wy,Wyoming,2007,r
+wy,Wyoming,2008,r
+wy,Wyoming,2009,r
+wy,Wyoming,2010,r
+wy,Wyoming,2011,r
+wy,Wyoming,2012,r
+wy,Wyoming,2013,r
+wy,Wyoming,2014,r
+wy,Wyoming,2015,r
+wy,Wyoming,2016,r
+wy,Wyoming,2017,r
